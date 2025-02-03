@@ -3,3 +3,5 @@ Martin resolusi
 - konsisten ngoding
 - dapet kerjaan yang di inginkan ( kerjaan di bindang web dev )
 - bisa beli laptop baru
+- lancar menggunakan laravel dan CI
+- lancar menggunakan bootstrap dan tailwind css
